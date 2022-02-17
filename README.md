@@ -1,8 +1,10 @@
-### Hello world
+### Hello world 
 
 My name is Javad, I'm an android developer. Besides loving my job and my side hustle, I love to read books, play video games
 
-## Some Things About Me
+
+
+### Some Things About Me
 
 Android Developer at [724](https://724.ir/)
 
