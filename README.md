@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello world
+
+My name is Javad, I'm an android developer. Besides loving my job and my side hustle, I love to read books, play video games
+
+## Some Things About Me
+
+Android Developer at https://724.ir/
 
 <!--
 **gradlevv/gradlevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
