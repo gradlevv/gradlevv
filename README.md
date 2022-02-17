@@ -1,6 +1,6 @@
 ### Hello world 
 
-My name is Javad, I'm an android developer. Besides loving my job and my side hustle, I love to read books, play video games
+My name is Javad, I'm an android developer. Besides loving my job , I love to read books, play video games
 
 
 
