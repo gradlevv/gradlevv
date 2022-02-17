@@ -6,7 +6,9 @@ My name is Javad, I'm an android developer. Besides loving my job , I love to re
 
 ### Some Things About Me
 
-Android Developer at [724](https://724.ir/)
+- Android Developer at [724](https://724.ir/)
+
+## Connect
 
 <!--
 **gradlevv/gradlevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
