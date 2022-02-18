@@ -17,6 +17,8 @@ My name is Javad, I'm an android developer. Besides loving my job , I love to re
 
 </p>
 
+### 🖥️ Skills
+
 <!--
 **gradlevv/gradlevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
