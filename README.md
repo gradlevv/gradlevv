@@ -1,14 +1,21 @@
-### Hello world 
+###👋 Hello world 
 
 My name is Javad, I'm an android developer. Besides loving my job , I love to read books, play video games
 
 
 
-### Some Things About Me
+### 👋 About me
 
 - Android Developer at [724](https://724.ir/)
 
-## Connect
+### 🤓 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sjsadati/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/gradlevv"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+</a>
+
+</p>
 
 <!--
 **gradlevv/gradlevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
